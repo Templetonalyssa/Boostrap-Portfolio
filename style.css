@@ -1,0 +1,35 @@
+body {
+
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/round.png");
+     
+
+}
+
+.container {
+    background-color: white;
+}
+
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    
+
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+
+row1 {
+    font-family: 'Georgia', Times, Times New Roman, serif; 
+}
+
+
+img {
+    width:200px;
+    height:230px;
+    float:left;
+    padding: 10px;
+}
