@@ -9,7 +9,10 @@ body {
     background-color: white;
 }
 
-
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
 
 .h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -17,6 +20,9 @@ body {
     padding: 10px;
 }
 
+a {
+    color: #777777;
+}
 
 row1 {
     font-family: 'Georgia', Times, Times New Roman, serif; 
